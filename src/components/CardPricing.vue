@@ -249,13 +249,17 @@ export default {
   transition: left 300ms ease-out
 }
 
-.container-billing .yearly-discount-lg, .container-billing .yearly-discount-sm  {
+.container-billing .yearly-discount-lg {
   background-color: hsl(14, 92%, 95%);
   color: var(--clr-light-red);
   font-size: 0.86rem;
   padding: 3px 5px;
   border-radius: 20px;
 }
+
+ .container-billing .yearly-discount-sm {
+   display: none;
+ }
 
 .container-description {
   display: flex;

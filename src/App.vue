@@ -117,6 +117,15 @@ input[type=range] {
     display: none;
   }
 
+  .container-billing .yearly-discount-sm {
+  display: block;
+  background-color: hsl(14, 92%, 95%);
+  color: var(--clr-light-red);
+  font-size: 0.86rem;
+  padding: 3px 5px;
+  border-radius: 20px;
+}
+
   .main-container h1 {
     font-size: 1.26rem;
     letter-spacing: 0.5px;
