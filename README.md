@@ -1,5 +1,8 @@
 # interactive-pricing
 
+## Preview site
+[Interactive pricing](https://compassionate-jang-43a43a.netlify.app/)
+
 ## Project setup
 ```
 npm install
